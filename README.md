@@ -4,7 +4,6 @@ The registered employees of any company portal will be able to avail the transpo
 2.	Subscribe to the transportation service 
 3.	Unsubscribe from a transportation service. 
 
-Project - Transportation Service
 Note: Pre-populate few records in the Transporation services tables 
 
 
