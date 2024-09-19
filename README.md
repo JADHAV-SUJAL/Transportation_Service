@@ -1,2 +1,6 @@
 # Transportation_Service
-This is an simple API integrated platform for company employees to book there transportation on subscribed basis .
+The registered employees of any company portal will be able to avail the transportation services. This module will provide the following services to the employees. 
+1.	Search for the available transportation services 
+2.	Subscribe to the transportation service 
+3.	Unsubscribe from a transportation service. 
+
